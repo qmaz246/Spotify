@@ -13,7 +13,7 @@ def get_profile(auth_token):
 
 def get_authorized():
 
-    print("Go to this address")
+    print("Go to this specific address")
     link = "https://accounts.spotify.com/authorize?client_id={:s}&redirect_uri=http:%2F%2Fexample.com%2Fcallback%2F&scope=user-read-private%20user-read-email&response_type=token&state=123".format(client_id)
     print(link)
     auth_token = input("Enter the authorization token:")
