@@ -1,0 +1,75 @@
+1621473693204	geckodriver	INFO	Listening on 127.0.0.1:62586
+1621473944941	geckodriver	INFO	Listening on 127.0.0.1:62926
+1621473947973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\QUINNM~1\\AppData\\Local\\Temp\\rust_mozprofilegs27ys"
+*** You are running in headless mode.
+1621473948289	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621473949402	Marionette	INFO	Listening on port 54857
+1621473949509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\QUINNM~1\\AppData\\Local\\Temp\\rust_mozprofilesBp2RG"
+*** You are running in headless mode.
+1621473988381	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621473989509	Marionette	INFO	Listening on port 64511
+1621473989657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\QUINNM~1\\AppData\\Local\\Temp\\rust_mozprofileYQKQfg"
+*** You are running in headless mode.
+1621474081236	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621474082397	Marionette	INFO	Listening on port 55863
+1621474082486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+efox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\QUINNM~1\\AppData\\Local\\Temp\\rust_mozprofile9U58KH"
+*** You are running in headless mode.
+1621474103004	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621474104082	Marionette	INFO	Listening on port 53454
+1621474104252	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\QUINNM~1\\AppData\\Local\\Temp\\rust_mozprofileQ8B8IF"
+*** You are running in headless mode.
+1621474183320	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621474184506	Marionette	INFO	Listening on port 60947
+1621474184539	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\QUINNM~1\\AppData\\Local\\Temp\\rust_mozprofileUu4hw1"
+*** You are running in headless mode.
+1621474286734	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621474287946	Marionette	INFO	Listening on port 58230
+1621474287992	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+efox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\QUINNM~1\\AppData\\Local\\Temp\\rust_mozprofile3AZcYr"
+*** You are running in headless mode.
+1621474346617	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621474347834	Marionette	INFO	Listening on port 49833
+1621474348320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\QUINNM~1\\AppData\\Local\\Temp\\rust_mozprofileKAuMMj"
+*** You are running in headless mode.
+1621474377616	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621474378577	Marionette	INFO	Listening on port 60809
+1621474378872	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
